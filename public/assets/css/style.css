@@ -1,0 +1,38 @@
+body {
+  background-image: url("/assets/images/city.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.deleteNote {
+  display: inline-block;
+}
+
+.previousNotes {
+  display: inline-block;
+  width: 90%;
+}
+
+#scrape {
+  margin: 8px 0px;
+}
+
+.navbar .navbar-default .navbar-fixed-top{
+background-color: #8ACCFD;
+}
+
+.panel-body {
+    background-color: #8ACCFD;
+    opacity: .5;
+}
+
+.panel-body:hover {
+    opacity: 1.0;
+    filter: alpha(opacity=100);
+}
+.jumbotron {
+    background-color: #8ACCFD;
+}
+
